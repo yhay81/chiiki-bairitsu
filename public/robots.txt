@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chiiki-bairitsu.yhay81.com/sitemap.xml

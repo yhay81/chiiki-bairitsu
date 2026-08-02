@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f1f2ed"/>
+  <rect x="60" y="58" width="1080" height="514" fill="#dce4df" stroke="#8f9f98" stroke-width="2"/>
+  <rect x="108" y="105" width="984" height="66" fill="#143f49"/>
+  <text x="140" y="147" fill="#d9ebea" font-family="sans-serif" font-size="24" font-weight="700">全国＋47労働局 · 職業計</text>
+  <text x="1060" y="147" fill="#fff5cb" font-family="sans-serif" font-size="22" font-weight="700" text-anchor="end">2023—2025年度</text>
+  <rect x="108" y="194" width="984" height="236" fill="#fffdf8" stroke="#8f9f98" stroke-width="2"/>
+  <rect x="145" y="238" width="318" height="124" fill="#fffdf8" stroke="#267281" stroke-width="5"/>
+  <text x="174" y="279" fill="#53666b" font-family="sans-serif" font-size="19" font-weight="700">月間有効求人数</text>
+  <text x="174" y="329" fill="#163038" font-family="sans-serif" font-size="34" font-weight="800">24,988,674</text>
+  <rect x="737" y="238" width="318" height="124" fill="#fff5ee" stroke="#d76442" stroke-width="5"/>
+  <text x="766" y="279" fill="#53666b" font-family="sans-serif" font-size="19" font-weight="700">月間有効求職者数</text>
+  <text x="766" y="329" fill="#163038" font-family="sans-serif" font-size="34" font-weight="800">22,698,922</text>
+  <path d="M478 286h244M478 316h244" stroke="#143f49" stroke-width="5"/>
+  <circle cx="600" cy="301" r="20" fill="#e1b94e" stroke="#143f49" stroke-width="6"/>
+  <rect x="435" y="391" width="330" height="105" fill="#fff9de" stroke="#e1b94e" stroke-width="4"/>
+  <text x="470" y="432" fill="#53666b" font-family="sans-serif" font-size="19" font-weight="700">求人 ÷ 求職</text>
+  <text x="725" y="463" fill="#163038" font-family="sans-serif" font-size="44" font-weight="800" text-anchor="end">1.10倍</text>
+  <text x="108" y="542" fill="#163038" font-family="sans-serif" font-size="34" font-weight="800">地域求人倍率</text>
+  <text x="1092" y="540" fill="#53666b" font-family="sans-serif" font-size="22" text-anchor="end">同じ地域・年度・雇用区分で比べる</text>
+</svg>
